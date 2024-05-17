@@ -1,0 +1,119 @@
+*{
+    margin: 0px;
+    font-family: sans-serif;
+    color: white;
+}
+/*------------NavBar section------------------------*/
+.navbar{
+    height: 90px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: black;
+   }
+.logo{
+    height: 50px;
+    color: red;
+    text-transform: uppercase;
+    font-size: 25px;
+    margin-top: 5px;
+    width: 700px;
+}
+.language{
+    height: 32px;
+    margin-top: 5px;
+   align-items:flex-end;
+}
+.size{
+    font-size: large;
+    background-color: black;
+    color: white;
+    border: 1px solid white
+}
+.button{
+    font-size: large;
+    background-color: black;
+    border: 1px solid white;
+    color: white;
+}
+/*---------------------Hero Section----------------------*/
+.hero{
+    background-image: url("https://assets.nflxext.com/ffe/siteui/vlv3/d253acf4-a1e2-4462-a416-f78802dc2d85/f04bf88c-f71c-4d02-82ed-adb870b8f8db/IN-en-20240429-POP_SIGNUP_TWO_WEEKS-perspective_WEB_658a042e-62cf-473d-8da0-7b875f23e2ef_small.jpg");
+    height: 500px;
+   }
+.text{
+    color:white;
+    text-align: center;
+    font-size: 25px;
+}
+.search-field{
+    font-size: 35px;
+    border-radius: 5px;
+    border: 5px solid whitesmoke;
+    background-color: black;
+    color: white;
+
+}
+.get-started{
+    font-size: 25px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    border: 5px solid white;
+}
+.TV{
+    height: 600px;
+    background-color: black;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-size: 25px;
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.Enjoy{
+    color: white;
+   }
+.LED{
+    height: 360px;
+}
+.Question{
+    height: 880px;
+    background-color: black;
+    font-size: 25px;
+    padding-top: 50px;
+    text-align: center;
+    
+}
+.Answer{
+    width: 1000px;
+    height: 80px;
+    background-color: rgb(69, 71, 73);
+    font-size: 35px;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-left: 200px;
+ }
+ /*Footer*/
+ .footer{
+    height: 400px;
+    background-color: black;
+    padding-top: 10px;
+    padding-left: 25px;
+    }
+ .type{
+   list-style-type: none;
+   }
+   .English{
+    height: 50px;
+    background-color: black;
+   }
+   .list{
+    height: 20px;
+    background-color:black;
+   }
+
+  
+    
+    
